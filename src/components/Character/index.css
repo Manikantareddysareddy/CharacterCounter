@@ -1,0 +1,8 @@
+.list-item {
+  list-style-type: none;
+}
+.list-heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 20px;
+}
